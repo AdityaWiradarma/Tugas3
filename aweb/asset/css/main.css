@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header {
+    padding: 10px;
+    background-color: #6488b6;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.nav-link {
+    margin: 0 10px;
+    font-size: 12px;
+}
+
+.banner {
+    margin-top: 5%;
+    color: #fff;
+}
+
+.banner h1 {
+    font-weight: 600;
+    margin: 80px 0 20px;
+    font-size: 50px;
+}
+
+.banner img {
+    max-height: 500px;
+}
+
+.artikel {
+    text-align: center;
+}
+
+.artikel h2 {
+    margin: 25px 0;
+}
+
+.artikel img {
+    max-height: 200px;
+    text-align: center !important;
+    margin-bottom: 25px;
+}
+
+.col-sm-4 {
+    margin: 0;
+    padding: 10px;
+}
+
+.produk h4 {
+    margin: 10px;
+    text-align: center;
+}
+
+.produk p {
+    margin: 10px;
+    text-align: center;
+}
+
+.footer p {
+    color: #fff !important;
+}
