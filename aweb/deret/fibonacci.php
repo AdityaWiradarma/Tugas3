@@ -118,17 +118,20 @@ if (isset($_POST['submit'])) {      //cek jika tombol submit ditekan
             </div>
 
             <!--footer-->
-            <section class="footer">
-                <footer class="bg-dark">
-                    <div class="container">
-                        <div class="row pt-3">
-                            <div class="col text-center text-white">
-                                <p> | Nyoman Aditya Wiradarma - 2021 | </p>
-                            </div>
-                        </div>
+        </div>
+    </section>
+
+    <section>
+        <footer class="bg-dark">
+            <div class="container">
+                <div class="row pt-3">
+                    <div class="col text-center gtext-white">
+                        <p> | Nyoman Aditya Wiradarma - 2021 | </p>
                     </div>
-                </footer>
-            </section>
+                </div>
+            </div>
+        </footer>
+    </section>
 
 </body>
 
