@@ -125,7 +125,7 @@ if (isset($_POST['submit'])) {      //cek jika tombol submit ditekan
         <footer class="bg-dark">
             <div class="container">
                 <div class="row pt-3">
-                    <div class="col text-center gtext-white">
+                    <div class="col text-center text-white">
                         <p> | Nyoman Aditya Wiradarma - 2021 | </p>
                     </div>
                 </div>
